@@ -269,9 +269,14 @@ text-align: initial;
     flex-basis: 48%;
     text-align: center;
     border-radius: 7px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     color: white;
     position: relative;
+}
+.single_service h2{
+
+    color: black;
+   
 }
 .single_service img{
     width: 100%;
